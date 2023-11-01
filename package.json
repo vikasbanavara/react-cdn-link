@@ -1,0 +1,32 @@
+{
+  "name": "html-cdn",
+  "version": "1.0.0",
+  "description": "My first app",
+  "main": "index.js",
+  "scripts": {
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikasbanavara/react-cdn-link.git"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "vikas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikasbanavara/react-cdn-link/issues"
+  },
+  "homepage": "https://github.com/vikasbanavara/react-cdn-link#readme",
+  "dependencies": {
+    "parcel": "^2.10.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
